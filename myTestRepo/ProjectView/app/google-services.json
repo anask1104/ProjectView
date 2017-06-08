@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "146833464362",
+    "firebase_url": "https://projectview-2757f.firebaseio.com",
+    "project_id": "projectview-2757f",
+    "storage_bucket": "projectview-2757f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146833464362:android:f156e71f40ac823a",
+        "android_client_info": {
+          "package_name": "com.anask1104gmail.projectview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146833464362-l8fo9no34421b7bgpvsrocpslovuveav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXV5zLxmavgSrXtM26gFpX9-a4LYKFSEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
